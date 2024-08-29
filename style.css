@@ -160,20 +160,18 @@ body{
         height: 50px;
     }
     .firstset1 {
-        height: 140px;
+        height: 160%;
         font-size: 1.2rem;
     }
-
+    .fifth .firstset{
+        width: 24.5%;
+    }
     .dis2 {
         font-size: 1.5rem;
     }
     .third .firstset{
-        width: 24.5%;
+        width: 24%;
     }
-    .fifth .firstset{
-        width: 33%;
-    }
-
     .mainbody {
         width: 95%;
         max-width: none;
