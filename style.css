@@ -155,10 +155,12 @@ body{
         height: 50px;
         font-size: 1.2rem;
     }
-    .firstset1{
-        height: 160px;
-        font-size:1.2rem;
+
+    .firstset1 {
+        height: 120px;
+        font-size: 1.2rem;
     }
+
     .dis2 {
         font-size: 1.5rem;
     }
