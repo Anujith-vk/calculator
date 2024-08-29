@@ -152,7 +152,7 @@ body{
 
 @media (max-width: 480px) {
     .firstset, .firstset2  {
-        height: 50px;
+        height: 80px;
         font-size: 1.2rem;
     }
     .firstset3{
@@ -160,7 +160,7 @@ body{
         height: 50px;
     }
     .firstset1 {
-        height: 160%;
+        height: 194%;
         font-size: 1.2rem;
     }
     .fifth .firstset{
