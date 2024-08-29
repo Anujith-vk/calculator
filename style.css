@@ -151,11 +151,13 @@ body{
 }
 
 @media (max-width: 480px) {
-    .firstset, .firstset1, .firstset2, .firstset3 {
+    .firstset, .firstset2, .firstset3 {
         height: 50px;
         font-size: 1.2rem;
     }
-    
+    .firstset1{
+        height: 160px;
+    }
     .dis2 {
         font-size: 1.5rem;
     }
