@@ -1,0 +1,151 @@
+*{
+    /* position: relative; */
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-image:url("f91eb394ceea5aa054fb0f197f77be75.jpg");
+
+}
+.mainbody{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    border-radius: 40px;
+    margin-top: 4rem;
+    margin-left: 50%;
+    transform: translatex(-50%);
+    width: 26rem;
+    height: 38rem;
+    background-color:rgba(69, 101, 95, 0.542)
+}
+.dis{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10%;
+    width: 90%;
+    height: 15%;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.sw{
+    padding-top: 5px;
+    display: flex;
+    flex-direction: column;
+    background-color:transparent;
+    width: 90%;
+    height: 71%;
+    border-radius: 10px;
+}
+.sw input:hover{
+    cursor: pointer;
+}
+.first{
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+    /* background-color: blue; */
+    width: 100%;
+    height: 5.4rem;
+}
+
+.second{
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+    /* background-color:green; */
+    width: 100%;
+    height: 5.4rem;
+}
+
+.third{
+    display: flex;
+    gap: 3px;
+    /* justify-content: center; */
+    /* background-color:yellowgreen; */
+    width: 100%;
+    height: 5.4rem;
+}
+.fourth{
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+    /* background-color:green; */
+    width: 100%;
+    height: 5.4rem;
+}
+.fifth{
+    display: flex;
+    gap: 3px;
+    /* background-color:blue; */
+    width: 100%;
+    height:5.4rem;
+}
+.firstset{
+    height: 80px;
+    background-color: aliceblue;
+    width: 90px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.firstset1{
+    position: relative;
+    height: 166px;
+    background-color: aliceblue;
+    width: 90px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(63, 63, 235);
+}
+.firstset2{
+    height: 80px;
+    background-color: aliceblue;
+    margin-left: 2px;
+    width: 90px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.firstset3{
+    height: 80px;
+    background-color: aliceblue;
+    width: 182px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3px;
+}
+.dis2{
+    display: flex;
+    justify-content:baseline;
+    text-align: right;
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    font-size:xx-large;
+}
+.first input{
+    color:rgb(63, 63, 235);
+    font-size: large;
+}
+.second input{
+    font-size: large;
+}
+.third input{
+    font-size: large;
+}
+.fourth input{
+    font-size: large;
+}
+.fifth input{
+    font-size: large;
+}
