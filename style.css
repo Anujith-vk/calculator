@@ -149,3 +149,19 @@ body{
 .fifth input{
     font-size: large;
 }
+
+@media (max-width: 480px) {
+    .firstset, .firstset1, .firstset2, .firstset3 {
+        height: 50px;
+        font-size: 1.2rem;
+    }
+    
+    .dis2 {
+        font-size: 1.5rem;
+    }
+
+    .mainbody {
+        width: 95%;
+        max-width: none;
+    }
+}
